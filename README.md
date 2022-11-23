@@ -1,4 +1,3 @@
-# 3A_28_RijalAmmar_Quiz2_Test_LoginDosen
 Keterangan File :
 1.PPL_Quiz2 : Login Dosen Berhasil
 2.PPL_Quiz2-1 : Login Dosen Gagal (Password Salah)
